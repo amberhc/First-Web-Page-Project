@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+	<head>
+		<title>web page project</title>
+	</head>
+	<body>
+    <!--iframe and headings-->
+			<iframe width=300 height=300 src="http://www.ecowebhosting.co.uk" frameborder="0" align="right"></iframe>
+			<h1>My web page project</h1>
+			<h2>A page to compile all the skills I have learned</h2>
+		<hr>	
+			<!--image and paragraph-->
+      <img src="meh.jpg" width="200" height="200">
+			<p>this is a paragraph of text to show the use of paragraph tags</p>
+		<hr>
+			<!--lists-->
+      <h3>Lists</h3>
+				<ul>
+					<li>this is a list item</li>
+					<li>this is a second list item</li>
+					<li>this is a third list item</li>
+				</ul>
+				<ol>
+					<li>this is ordered list item one</li>
+					<li>this is ordered list item two</li>
+				</ol>
+		<hr>
+    <!--links-->
+			<a href="http://www.google.com">link to google to demonstrate links</a>
+			<br><a href="http://www.google.com"><img src="meh.jpg"></a>
+		<hr>
+    <!--tables-->
+			<table>
+				<thead>
+					<th>value 1</th>
+					<th>value 2</th>
+				</thead>
+				<tbody>
+					<tr>
+						<td>input 1</td>
+						<td>input 2</td>
+				</tbody>
+			</table>
+		<hr>	
+    <!--entities-->
+			<p>this is just a paragraph to demonstrate entities
+			<br>&amp;&euro;&copy;&reg;</p>
+		<hr>
+    <!--form with submit function-->
+			<form action="http://www.google.com">
+				<p>this is a button to go to google</p>
+				<p><input type="submit" value="click here!"></p>
+	</body>
+</html>
